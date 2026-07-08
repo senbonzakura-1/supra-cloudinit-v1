@@ -1,0 +1,1 @@
+/run/cloud-init/instance-data-sensitive.json

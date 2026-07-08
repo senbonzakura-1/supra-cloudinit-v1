@@ -1,0 +1,1 @@
+/var/lib/cloud/instance/user-data.txt
